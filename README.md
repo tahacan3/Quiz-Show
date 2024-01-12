@@ -1,1 +1,1 @@
-I made this project for working purposes. You can use it as you wish.
+I made this project for learning purposes. You can use it as you wish.
